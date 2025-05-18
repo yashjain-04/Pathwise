@@ -115,10 +115,9 @@ Run using Maven:
 
 ./mvnw spring-boot:run
 
-👨‍💻 Team
-
-Yash Jain	Full-stack Developer, API & AI Integration Lead, Backend Architecture, API & Cloud Connectivity
-Ritik Kumar	Backend Architecture, API & Cloud Connectivity
-Kanishka Dikhit	PPT Creation, Research, Documentation, and Video Production
-Vikas Chourasiya	Data Modeling, Route Analysis, Google Maps Integration
-Vinay Patidar	UI/UX Design & Frontend Interactivity
+# Team👨‍💻
+- **Yash Jain**,	Full-stack Developer, API & AI Integration Lead, Backend Architecture, API & Cloud Connectivity
+- **Ritik Kumar**,	Backend Architecture, API & Cloud Connectivity
+- **Kanishka Dikhit**,	PPT Creation, Research, Documentation, and Video Production
+- **Vikas Chourasiya**,	Data Modeling, Route Analysis, Google Maps Integration
+- **Vinay Patidar**,	UI/UX Design & Frontend Interactivity
